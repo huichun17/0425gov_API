@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+  background: #F0F8FF;
+}
+
+.all {
+  display: flex;
+  /* 水平置中 */
+  justify-content: center;
+  /* 垂直置中 */
+  align-items: center;
+}
+
+.block {
+  width: 300px;
+  height: 200px;
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 0 30px #000;
+}
+.block p {
+  color: darkslategrey;
+}/*# sourceMappingURL=index.css.map */
